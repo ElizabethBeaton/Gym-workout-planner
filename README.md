@@ -39,10 +39,10 @@ A simple and interactive gym workout planner designed to help users create perso
 ## Installation 🛠️
 
 1. Clone the repository:
-   ```bash
+   bash
    git clone https://github.com/yourusername/gym-workout-planner.git
 2. Navigate to the project directory:
-  ```bash
+   bash
   cd gym-workout-planner
 3. Open index.html in your browser to start using the Gym Workout Planner.
 
